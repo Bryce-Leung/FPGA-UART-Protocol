@@ -20,6 +20,8 @@ UART Protocol made for Altera DE2-115 FPGA in VHDL
 ### **General Design Overview**
 
 ### **UART Controller**
+<p align="center"><img width="900" alt="Controller Datapath" src="https://github.com/Bryce-Leung/FPGA-UART-Protocol/assets/74439762/e4dc9ed9-b872-41ff-911b-2d08bc8f5458"></p>
+
 #### **Controller Testbench**
 
 ### **TX**
