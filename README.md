@@ -1,7 +1,7 @@
 # **FPGA UART Protocol**
 
 Authors:
-[Bryce Leung](https://github.com/Bryce-Leung)
+[Bryce Leung](https://github.com/Bryce-Leung),
 [Sahaj Singh]()
 
 UART Protocol made for Altera DE2-115 FPGA in VHDL
