@@ -25,7 +25,11 @@ UART Protocol made for Altera DE2-115 FPGA in VHDL
 #### **Controller Testbench**
 
 ### **TX**
+<p align="center"><img width="900" alt="TX Datapath" src=""></p>
+
 #### **TX Testbench**
 
 ### **RX**
+<p align="center"><img width="900" alt="RX Datapath" src="https://github.com/Bryce-Leung/FPGA-UART-Protocol/assets/74439762/98efb400-ac64-4c70-9354-a6581d9e5414"></p>
+
 #### **RX Testbench**
