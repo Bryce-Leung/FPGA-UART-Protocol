@@ -35,4 +35,6 @@ UART Protocol made for Altera DE2-115 FPGA in VHDL
 ----
 <p align="center"><img width="900" alt="RX Datapath" src="https://github.com/Bryce-Leung/FPGA-UART-Protocol/assets/74439762/98efb400-ac64-4c70-9354-a6581d9e5414"></p>
 
+<p align="center"><img width="900" alt="RX FSM" src="https://github.com/Bryce-Leung/FPGA-UART-Protocol/assets/74439762/d96716f0-babf-415f-8cbb-4e5cbdab7934"></p>
+
 #### **RX Testbench**
