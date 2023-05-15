@@ -23,6 +23,8 @@ UART Protocol made for Altera DE2-115 FPGA in VHDL
 ----
 <p align="center"><img width="900" alt="Controller Datapath" src="https://github.com/Bryce-Leung/FPGA-UART-Protocol/assets/74439762/e4dc9ed9-b872-41ff-911b-2d08bc8f5458"></p>
 
+<p align="center"><img width="900" alt="UART Controller FSM" src="https://github.com/Bryce-Leung/FPGA-UART-Protocol/assets/74439762/cc615c0c-fd58-4119-8c93-189fc531fd8c"></p>
+
 #### **Controller Testbench**
 
 ### **TX**
