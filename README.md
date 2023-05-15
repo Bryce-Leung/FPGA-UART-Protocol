@@ -7,6 +7,7 @@ Authors:
 UART Protocol made for Altera DE2-115 FPGA in VHDL
 
 # Contents:
+- [How to Use](How-to-Use)
 - [General Design Overview](#General-Design-Overview)
 - [UART Controller](#UART-Controller)
 - [TX](#TX)
@@ -15,6 +16,8 @@ UART Protocol made for Altera DE2-115 FPGA in VHDL
   - [RX Testbench](#RX-Testbench)
 
 # **FPGA UART Protocol Documentation:**
+
+### **How to Use**
 
 ### **General Design Overview**
 
@@ -26,6 +29,7 @@ UART Protocol made for Altera DE2-115 FPGA in VHDL
 
 ### **TX**
 ----
+TX is the transmitting component of the UART controller.
 <p align="center"><img width="900" alt="TX Datapath" src="https://github.com/Bryce-Leung/FPGA-UART-Protocol/assets/74439762/e4bd9da2-f107-4a8e-a36e-a3bcc590030b"></p>
 
 <p align="center"><img width="900" alt="TX FSM" src="https://github.com/Bryce-Leung/FPGA-UART-Protocol/assets/74439762/34255100-4467-4b7f-aebe-d78556784ec4"></p>
