@@ -2,7 +2,7 @@
 
 Authors:
 [Bryce Leung](https://github.com/Bryce-Leung),
-[Sahaj Singh]()
+[Sahaj Singh](https://github.com/SatireSage)
 
 UART Protocol made for Altera DE2-115 FPGA in VHDL
 
