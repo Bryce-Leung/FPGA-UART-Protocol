@@ -91,7 +91,7 @@ The transmitter module is responsible for sending data serially to the receiver.
 
 ### **TX Testbench**
 
-The TX testbench verifies the functionality of the transmitter module. It simulates various scenarios, including different data patterns, baud rates, and handshaking methods.the following waveform output obtained from Modelsim Altera:
+The TX testbench verifies the functionality of the transmitter module. It simulates various scenarios, including different data patterns, baud rates, and handshaking methods.
 
 ## **RX**
 
@@ -103,4 +103,4 @@ The TX testbench verifies the functionality of the transmitter module. It simula
 
 #### **RX Testbench**
 
-The testbench for the RX component tested different cases of recieving correct and incorrect data, with the following waveform output obtained from Modelsim Altera:
+The testbench for the RX component tested different cases of recieving correct and incorrect data.
