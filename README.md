@@ -9,12 +9,12 @@ UART Protocol made for Altera DE2-115 FPGA in VHDL
 # Contents:
 
 - [General Design Overview](#General-Design-Overview)
-  - [How to Use](How-to-Use)
+  - [How to Use](#How-to-Use)
 - [UART Controller](#UART-Controller)
-  - [Baud Rate Generation](How-to-Use)
-  - [Data Framing](Data-Framing)
-  - [Error Detetion and Correction](Error-Detetion-and-Correction)
-  - [Handshaking](Handshaking)
+  - [Baud Rate Generation](#Baud-Rate-Generation)
+  - [Data Framing](#Data-Framing)
+  - [Error Detetion and Correction](#Error-Detetion-and-Correction)
+  - [Handshaking](#Handshaking)
 - [TX](#TX)
   - [TX Testbench](#TX-Testbench)
 - [RX](#RX)
