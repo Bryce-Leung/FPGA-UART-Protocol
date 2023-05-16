@@ -8,31 +8,19 @@ UART Protocol made for Altera DE2-115 FPGA in VHDL
 
 # Contents:
 
-- [How to Use](How-to-Use)
 - [General Design Overview](#General-Design-Overview)
+  - [How to Use](How-to-Use)
 - [UART Controller](#UART-Controller)
+  - [Baud Rate Generation](How-to-Use)
+  - [Data Framing](Data-Framing)
+  - [Error Detetion and Correction](Error-Detetion-and-Correction)
+  - [Handshaking](Handshaking)
 - [TX](#TX)
   - [TX Testbench](#TX-Testbench)
 - [RX](#RX)
   - [RX Testbench](#RX-Testbench)
 
 # **FPGA UART Protocol Documentation:**
-
-## **How to Use**
-
-Steps to prepare the FPGA UART Module:
-
-1. Clone this repository to your local machine.
-2. Ensure that you have the necessary FPGA development tools installed.
-3. Open the project with your preferred FPGA development environment.
-4. Run the provided testbenches to verify the functionality of the UART protocol.
-5. Synthesize the design and program your FPGA board with the generated bitstream.
-
-Operating the Module:
-
-- To use the UART Module use the onboard switches labelled 0 to 7 and press Key 0 to transmit the data.
-- To set the BAUD Rate use the onboard switches labelled 0 to 17 and press Key 1 to set the baud rate.
-- To reset the module simply press Key 3.
 
 ## **General Design Overview**
 
@@ -44,6 +32,22 @@ The UART system is designed with the following subsystems:
 - Handshaking
 
 These subsystems work together to enable synchronous data transmission between UART devices.
+
+### **How to Use**
+
+Steps to prepare the FPGA UART Module:
+
+1. Clone this repository to your local machine.
+2. Ensure that you have the necessary FPGA development tools installed.
+3. Open the project with your preferred FPGA development environment.
+4. Run the provided testbenches to verify the functionality of the UART protocol.
+5. Synthesize the design and program your FPGA board with the generated bitstream.
+
+Operating the Module:
+
+- To use the UART Module use the onboard **switches 0 to 7** and then press **Key 0** to **transmit the data**.
+- To set the BAUD Rate use the onboard **switches 0 to 17** and then press **Key 1** to **set the baud rate**.
+- To **reset the module** simply press **Key 3**.
 
 ## **UART Controller**
 
